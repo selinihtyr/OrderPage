@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HamburgerApplication</string>
+    <string name="baslik">Aşırı Peynirli Whopper JR</string>
+    <string name="aciklama">Alevde ızgara edilmiş dana köftesinin üzerine füme domuz pastırması.</string>
+    <string name="s">S</string>
+    <string name="m">M</string>
+    <string name="l">L</string>
+    <string name="artı">+</string>
+    <string name="eksi">-</string>
+    <string name="adet">2</string>
+    <string name="fiyatAdı">Fiyat</string>
+    <string name="fiyat">160.98₺</string>
+    <string name="siparisver">Sipariş Ekle</string>
+
+</resources>

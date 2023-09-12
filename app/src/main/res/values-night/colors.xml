@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="koyuTuruncu">#F44336</color>
+    <color name="acikTuruncu">#FFFDE4A7</color>
+    <color name="textBlackColor">#FFFFFF</color>
+    <color name="textWhiteColor">#FFFFFF</color>
+    <color name="gray">#E3E3E3</color>
+</resources>

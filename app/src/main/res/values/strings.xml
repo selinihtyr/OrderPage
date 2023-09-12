@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HamburgerApplication</string>
+    <string name="baslik">Extreme cheese whopper JR</string>
+    <string name="aciklama">A signutare flame-grilled beef patty topped with smoked bacon.</string>
+    <string name="s">S</string>
+    <string name="m">M</string>
+    <string name="l">L</string>
+    <string name="artı">+</string>
+    <string name="eksi">-</string>
+    <string name="adet">2</string>
+    <string name="fiyatAdı">Price</string>
+    <string name="fiyat">5.98 $</string>
+    <string name="siparisver">Add to Order</string>
+
+</resources>
